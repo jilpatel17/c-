@@ -1,4 +1,4 @@
-llowing is the implementation of the above algorithm
+Following is the implementation of the above algorithm
 
 /* C++ implementation to convert infix expression to postfix*/
 // Note that here we use std::stack  for Stack operations 
