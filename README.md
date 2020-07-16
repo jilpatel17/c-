@@ -1,2 +1,2 @@
 # c-
-Learn c++ in easy way and new technics 
+Learn infixtopostfix in easy with jil patel in c++ 
